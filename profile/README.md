@@ -1,5 +1,3 @@
-# MBPI Systems
-
 > Company-owned software, systems, and digital products.
 
 ## Overview
