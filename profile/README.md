@@ -1,5 +1,3 @@
-# Masterbatch Philippines, Inc.
-
 ## About
 
 This organization repository is created to compile everyday programming tasks for **Masterbatch Philippines, Inc.**.
