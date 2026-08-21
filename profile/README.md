@@ -42,5 +42,5 @@ If you have been given access to this organization and are unsure where to begin
 
 ---
 
-**MBPI**  
-*Company-owned software and technology.*
+**Masterbatch Philippines, Inc.**  
+*The Trusted Partner in Color Solutions and Innovations*
