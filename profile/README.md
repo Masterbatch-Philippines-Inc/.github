@@ -1,23 +1,46 @@
-## About
+# MBPI Systems
 
-This organization repository is created to compile everyday programming tasks for **Masterbatch Philippines, Inc.**.
+> Company-owned software, systems, and digital products.
 
-The goal is to keep programming tasks and their solutions organized in one place for reference, practice, and continued development.
+## Overview
 
-## Programming Tasks
+This organization contains the software, applications, services, tools, and other technical projects owned and maintained by **Masterbatch Philippines, Inc.**.
 
-This organization contains repositories and code related to everyday programming tasks.
+Repositories within this organization are primarily intended for company development, operations, and internal use. Access to individual repositories may vary depending on the project and the user's role or responsibilities.
 
-Tasks may cover different programming concepts, problems, and implementations as they are added over time.
+## 🗂️ What's Here
 
-## Getting Started
+This organization may contain repositories for:
 
-Browse the repositories in this organization to find the programming tasks and their corresponding implementations.
+- 🖥️ Company applications and software
+- ⚙️ Internal systems and services
+- 🧰 Development and operational tools
+- 🌐 Websites and web services
+- 📦 Shared company-owned software
+- 🧪 Research, prototypes, and experiments
+- 📚 Documentation and supporting resources
 
-## Contributing
+## 🔐 Access & Ownership
 
-If you are a member or contributor to this organization, follow the contribution guidelines provided in the relevant repository when available.
+Repositories and their contents are **company-owned**. Access is provided according to project requirements, responsibilities, and company policies.
 
-## Help
+Not all repositories are intended for external distribution and public access (unless necessary).
 
-For questions or issues related to a specific task, please refer to the repository containing that task and its documentation.
+Please follow the applicable company policies and repository-specific guidelines when accessing or working with company software.
+
+## 📌 Getting Started
+
+If you have been given access to this organization and are unsure where to begin:
+
+1. Read the **[I.T. Orientation](https://github.com/orgs/Masterbatch-Philippines-Inc/discussions/1)**.
+2. Review the documentation for the repository you are working with.
+3. Follow the project's contributing and development guidelines where applicable.
+4. Contact the appropriate project or team owner if you need clarification.
+
+## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,javascript,postgresql" alt="Tech Stack" />
+
+---
+
+**MBPI**  
+*Company-owned software and technology.*
