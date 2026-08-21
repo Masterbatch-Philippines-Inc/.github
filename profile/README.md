@@ -1,5 +1,3 @@
-> Company-owned software, systems, and digital products.
-
 ## Overview
 
 This organization contains the software, applications, services, tools, and other technical projects owned and maintained by **Masterbatch Philippines, Inc.**.
